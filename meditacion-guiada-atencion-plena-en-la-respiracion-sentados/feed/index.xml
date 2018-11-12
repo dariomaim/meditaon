@@ -9,8 +9,8 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	>
 <channel>
 	<title>Comentarios en: Meditación guiada: atención plena en la respiración sentados</title>
-	<atom:link href="https://https://dariomaim.github.io/meditaon/meditacion-guiada-atencion-plena-en-la-respiracion-sentados/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://dariomaim.github.io/meditaon/meditacion-guiada-atencion-plena-en-la-respiracion-sentados/</link>
+	<atom:link href="https://dariomaim.github.io/meditaon/meditacion-guiada-atencion-plena-en-la-respiracion-sentados/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dariomaim.github.io/meditaon/meditacion-guiada-atencion-plena-en-la-respiracion-sentados/</link>
 	<description>Una guía libre para meditar</description>
 	<lastBuildDate>Sun, 11 Nov 2018 23:45:45 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
