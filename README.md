@@ -2,8 +2,19 @@
 ## Una guía de meditación práctica. Libre, Gratis y en Español.
 
 
+### Empezá a meditar
 
-
+1. ¿Por qué Meditar?
+2. Técnica básica de meditación
+3. Postura
+4. Respiración
+5. Pensamiento
+6. Meditación guiada
+7. Desafíos
+8. Efectos Secundarios
+9. Estilos de práctica
+10. Lecturas recomendadas
+11. Siguiente Nivel
 
 # Licencia
 ## No Copyright
