@@ -1,3 +1,6 @@
+Queda archivo este repo. Se movió a https://github.com/meditaon
+
+
 # Meditaon
 ## Una guía de meditación práctica. Libre, Gratis y en Español.
 
