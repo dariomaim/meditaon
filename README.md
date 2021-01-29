@@ -13,6 +13,7 @@ El contenido de este sitio, todos los libros, audio y cosas publicados acá y ge
 Esto significa que pongo todo el contenido en el Dominio Público, y que liberé todos los derechos de autor.
 
 No tenés necesidad de pedirme permiso para usar el contenido. Usalo libremente como quieras. Envialo por correo electrónico, compartilo, imprimilo, vendelo, copialo, cambialo. Está todo bien. No es mío.
+
 El objetivo del No Copyright
 
 El No Copyright permite a los autores, creadores, copiadores, a las personas que hacen cosas (en este caso yo) compartir libremente, eliminando cualquier cosa que impida la evolución de las ideas.
